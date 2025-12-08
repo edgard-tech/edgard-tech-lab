@@ -1,5 +1,5 @@
-![Termosolar](termotanque-solar.jpg)
-
+![termosolar](thermosolar peabody.jpeg)
+![termosolar](thermosolar peabody1.jpeg)
 # Instalación de Sistema Termosolar
 
 ## Tipo de proyecto
