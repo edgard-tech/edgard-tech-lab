@@ -1,4 +1,5 @@
-diagnostico-incubadora/README.md
+![Incubadora](IMG-20180223-WA0004.jpg)
+/README.md
 # Diagnóstico Técnico — Incubadora
 ## Tipo de equipo
 Incubadora (uso médico / laboratorio)
