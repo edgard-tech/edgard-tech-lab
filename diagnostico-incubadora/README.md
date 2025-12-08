@@ -4,7 +4,7 @@
 ## Tipo de equipo
 Incubadora (uso médico / laboratorio)
 ## Falla reportada
-(Completar con el síntoma principal)
+El equipo presentaba alarma de falla de aire. Además, se requería la adaptación e integración de una jeringa de infusión, un oxímetro de pulso y un respirador portátil al entorno de la incubadora.
 ## Evaluación inicial
 - Inspección visual general
 - Verificación de alimentación eléctrica
@@ -15,8 +15,8 @@ Incubadora (uso médico / laboratorio)
 - Pruebas funcionales
 - Correcciones aplicadas (si corresponde)
 ## Resultado
-(Completar con estado final del equipo)
+Luego del diagnóstico y las pruebas funcionales, se verificó la correcta circulación de aire y el funcionamiento de sensores y ventilación interna. Se integraron correctamente la jeringa de infusión, el oxímetro de pulso y el respirador portátil. El equipo operó de manera estable sin activación de alarmas.
 ## Estado actual
-(Operativa / En observación / En reparación)
+Operativa
 ## Documentado por
 Edgard-Tech
