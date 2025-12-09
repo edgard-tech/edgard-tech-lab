@@ -1,5 +1,9 @@
-## Imágenes del proyecto termosolar
-termosolar%20peabody.jpeg
+## Imágenes del proyecto
+
+![Termosolar Peabody 1](termosolar_peabody.jpeg)
+
+![Termosolar Peabody 2](termosolar_peabody1.jpeg)
+
 
 # Instalación del Sistema Termosolar
 
