@@ -1,5 +1,5 @@
-(thermosolar peabody.jpeg)
-(thermosolar peabody1.jpeg)
+![Termosolar](thermosolar peabody.jpeg)
+![Termosolar](thermosolar peabody1.jpeg)
 # Instalación de Sistema Termosolar
 
 ## Tipo de proyecto
