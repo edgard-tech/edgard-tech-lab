@@ -1,7 +1,5 @@
 <img src="termosolar_peabody1.jpeg" width="400">
 <img src="termosolar_peabody.jpeg" width="400">
-
-
 # Instalación de Sistema Termosolar
 
 ## Tipo de proyecto
