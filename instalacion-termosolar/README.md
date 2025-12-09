@@ -1,5 +1,5 @@
 ## Imágenes del proyecto
-https://github.com/edgard-tech/edgard-tech-lab/blob/main/instalacion-termosolar/termosolar%20peabody.jpeg
+instalacion-termosolar/termosolar%20peabody.jpeg
 
 # Instalación del Sistema Termosolar
 
