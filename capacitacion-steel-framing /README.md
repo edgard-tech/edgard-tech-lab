@@ -1,15 +1,15 @@
-# Capacitación en Steel Frame
+# Capacitación en Steel Framing
 
 ## Tipo de proyecto
-Capacitación técnica profesional en sistema constructivo Steel Frame.
+Capacitación técnica profesional en sistema constructivo Steel Framing.
 
 ## Objetivo
-Adquirir conocimientos teóricos y prácticos sobre el sistema de construcción en seco Steel Frame, incluyendo diseño, montaje, estructuras, cerramientos y terminaciones.
+Adquirir conocimientos teóricos y prácticos sobre el sistema de construcción en seco Steel Framing, incluyendo diseño, montaje, estructuras, cerramientos y terminaciones.
 
 ---
 
 ## Contenidos abordados
-- Introducción al sistema Steel Frame
+- Introducción al sistema Steel Framing
 - Lectura de planos y modulación
 - Perfiles galvanizados (tipos y usos)
 - Armado de paneles estructurales
