@@ -16,7 +16,11 @@ Técnico en electrónica, energía solar, gasista matriculado, mantenimiento de 
 - Proyectos con IA  
 
 ## Proyectos
-(Este espacio se irá completando con cada proyecto documentado.)
+### 🔧 Proyectos documentados
+
+- ☀️ [Instalación de Sistema Termosolar](./instalación-termosolar)
+- 🏥 [Diagnóstico técnico de Incubadora](./diagnóstico-incubadora)
+
 
 ## Contacto
 Email: edgardoamamani@gmail.com
