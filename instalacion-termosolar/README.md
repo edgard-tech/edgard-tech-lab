@@ -1,5 +1,5 @@
-## Imágenes del proyecto
-instalacion-termosolar/termosolar%20peabody.jpeg
+## Imágenes del proyecto termosolar
+termosolar%20peabody.jpeg
 
 # Instalación del Sistema Termosolar
 
