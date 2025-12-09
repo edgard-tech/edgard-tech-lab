@@ -18,7 +18,6 @@ Técnico en electrónica, energía solar, gasista matriculado, mantenimiento de 
 ## Proyectos
 ### 🔧 Proyectos documentados
 
-- ☀️ [Instalación de Sistema Termosolar](./instalación-termosolar)
 - 🏥 [Diagnóstico técnico de Incubadora](./diagnóstico-incubadora)
 
 
