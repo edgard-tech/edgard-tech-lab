@@ -1,5 +1,4 @@
-<img src="termosolar_peabody.jpeg" width="420">
-<img src="termosolar_peabody1.jpeg" width="420">
+
 
 # Instalación del Sistema Termosolar
 
