@@ -1,5 +1,5 @@
-![Termosolar1](termosolar _peabody.jpeg)
-![Termosolar2](termosolar_ peabody1.jpeg)
+![Termosolar1](termosolar _peabody1.jpeg)
+![Termosolar2](termosolar_ peabody.jpeg)
 
 # Instalación de Sistema Termosolar
 
