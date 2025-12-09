@@ -5,7 +5,7 @@ Repositorio inicial de pruebas y proyectos tecnológicos de Edgard-Tech
 Bienvenido a mi portafolio profesional.
 
 ## Perfil
-Técnico en electrónica, energía solar, gasista matriculado, mantenimiento de equipos biomédicos y desarrollo de soluciones tecnológicas integrales.
+Técnico Superior en electrónica, energía solar, gasista matriculado, mantenimiento de equipos biomédicos y desarrollo de soluciones tecnológicas integrales.
 
 ## Áreas de trabajo
 - Electrónica analógica y digital  
@@ -15,10 +15,17 @@ Técnico en electrónica, energía solar, gasista matriculado, mantenimiento de 
 - Soporte técnico avanzado  
 - Proyectos con IA  
 
-## Proyectos
-### 🔧 Proyectos documentados
+## 🔧 Proyectos
 
-- 🏥 [Diagnóstico técnico de Incubadora](./diagnóstico-incubadora)
+### ☀️ Instalación Termosolar  
+Proyecto real de instalación y puesta en marcha de termotanque solar para agua sanitaria.
+
+👉 Ver proyecto completo:  
+[Instalación Termosolar](instalacion-termosolar/)
+
+📄 Diagnóstico técnico:  
+[Diagnóstico de Incubadora](./diagnóstico-incubadora)
+
 
 
 ## Contacto
