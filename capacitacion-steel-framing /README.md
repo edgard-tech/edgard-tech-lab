@@ -1,4 +1,4 @@
-# Capacitación en Steel Framing
+# Capacitación-Steel-Framing
 
 ## Tipo de proyecto
 Capacitación técnica profesional en sistema constructivo Steel Framing.
