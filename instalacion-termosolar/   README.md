@@ -1,5 +1,6 @@
-![Termosolar 1](termosolar_peabody.jpeg)
-![Termosolar 2](termosolar_peabody1.jpeg)
+<img src="./termosolar_peabody.jpeg" width="600">
+<img src="./termosolar_peabody1.jpeg" width="600">
+
 # Instalación de Sistema Termosolar
 
 ## Tipo de proyecto
