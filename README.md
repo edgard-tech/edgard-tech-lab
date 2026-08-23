@@ -1,4 +1,4 @@
-# edgard-tech-lab
+# laboratorio Tecnológico Edgard
 Repositorio inicial de pruebas y proyectos tecnológicos de Edgard-Tech
 # Portafolio Tecnológico — Edgard-Tech
 
