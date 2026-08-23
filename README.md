@@ -1,7 +1,7 @@
 # laboratorio Tecnológico Edgard
 Repositorio inicial de pruebas y proyectos tecnológicos de Edgard-Tech
 # Portafolio Tecnológico — Edgard-Tech
-
+.
 Bienvenido a mi portafolio profesional.
 
 ## Perfil
